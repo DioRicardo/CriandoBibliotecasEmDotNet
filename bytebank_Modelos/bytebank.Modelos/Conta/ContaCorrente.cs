@@ -140,6 +140,8 @@
             TotalDeContasCriadas += 1;
         }
 
+        public ContaCorrente() { }
+
 
         public static int TotalDeContasCriadas { get; set; }
 
